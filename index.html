@@ -1,7 +1,7 @@
 <html>
 <p>Hello World</p>
 <script>
-    const urlParams = new URLSearchParams(queryString);
+    const urlParams = new URLSearchParams(window.location.href);
     console.log(urlParams);
     var url = window.location.href;
     var pageName = url.searchParams.get("page");
