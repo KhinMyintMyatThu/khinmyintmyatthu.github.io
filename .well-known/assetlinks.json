@@ -8,4 +8,5 @@
     "target" : { "namespace": "android_app", "package_name": "io.ionic.starter",
                  "sha256_cert_fingerprints": ["90:93:E0:E5:72:E1:00:43:D0:4C:3B:25:B7:7B:12:14:28:87:63:BB"] }
 }
+ 
 ]
