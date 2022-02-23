@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.oneatkhayar.chatchin",
+                 "sha256_cert_fingerprints": ["7D:7F:74:FC:0B:EF:23:46:3F:39:7D:0B:E3:0B:DE:AD:41:F0:20:CB"] }
+}]
